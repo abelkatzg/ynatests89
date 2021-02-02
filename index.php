@@ -16,7 +16,7 @@ if($controller->isFilter()) {
     $users = $controller->getAllUsers();
 
 }
-//var_dump($users);
+
 
 
 if($controller->isCreate()) {
